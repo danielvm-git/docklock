@@ -7,12 +7,12 @@ public class SettingsManager {
         static let lockedDisplayID = "lockedDisplayID"
         static let launchAtLogin = "launchAtLogin"
     }
-    
+
     public static let shared = SettingsManager()
     private let defaults = UserDefaults.standard
-    
+
     private init() {}
-    
+
     public var lockedDisplayID: CGDirectDisplayID? {
         get {
             let value = defaults.integer(forKey: Keys.lockedDisplayID)
