@@ -6,7 +6,7 @@
 
 **Big DockLocker** is a lightweight macOS utility designed to solve a long-standing frustration for multi-monitor users: the "jumping Dock." It allows you to pin the macOS Dock to a specific display and prevents it from moving to other screens, even when performing bottom-edge gestures.
 
-**v1.5.0 Signature Edition** features a refined visual theme and professional identity.
+**v1.5.1 Signature Edition** features a refined visual theme and professional identity.
 
 [![Swift Version](https://img.shields.io/badge/Swift-6.0-F05138.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platforms-macOS_13+-lightgrey.svg)](https://developer.apple.com/macos/)

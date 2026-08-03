@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/danielvm-git/big-dock-locker/compare/v1.5.0...v1.5.1) (2026-08-03)
+
+
+### Bug Fixes
+
+* **lint:** resolve all swiftlint strict violations ([#8](https://github.com/danielvm-git/big-dock-locker/issues/8)) ([a809cb6](https://github.com/danielvm-git/big-dock-locker/commit/a809cb66212f246f63bda2e0d097e8e479176bc5))
+
 # [1.5.0](https://github.com/danielvm-git/docklock/compare/v1.4.0...v1.5.0) (2026-05-21)
 
 
